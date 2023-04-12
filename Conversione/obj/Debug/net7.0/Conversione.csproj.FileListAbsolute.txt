@@ -1,0 +1,15 @@
+C:\Users\F.Fidone\Desktop\C#\Conversione\bin\Debug\net7.0\Conversione.exe
+C:\Users\F.Fidone\Desktop\C#\Conversione\bin\Debug\net7.0\Conversione.deps.json
+C:\Users\F.Fidone\Desktop\C#\Conversione\bin\Debug\net7.0\Conversione.runtimeconfig.json
+C:\Users\F.Fidone\Desktop\C#\Conversione\bin\Debug\net7.0\Conversione.dll
+C:\Users\F.Fidone\Desktop\C#\Conversione\bin\Debug\net7.0\Conversione.pdb
+C:\Users\F.Fidone\Desktop\C#\Conversione\obj\Debug\net7.0\Conversione.csproj.AssemblyReference.cache
+C:\Users\F.Fidone\Desktop\C#\Conversione\obj\Debug\net7.0\Conversione.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\F.Fidone\Desktop\C#\Conversione\obj\Debug\net7.0\Conversione.AssemblyInfoInputs.cache
+C:\Users\F.Fidone\Desktop\C#\Conversione\obj\Debug\net7.0\Conversione.AssemblyInfo.cs
+C:\Users\F.Fidone\Desktop\C#\Conversione\obj\Debug\net7.0\Conversione.csproj.CoreCompileInputs.cache
+C:\Users\F.Fidone\Desktop\C#\Conversione\obj\Debug\net7.0\Conversione.dll
+C:\Users\F.Fidone\Desktop\C#\Conversione\obj\Debug\net7.0\refint\Conversione.dll
+C:\Users\F.Fidone\Desktop\C#\Conversione\obj\Debug\net7.0\Conversione.pdb
+C:\Users\F.Fidone\Desktop\C#\Conversione\obj\Debug\net7.0\Conversione.genruntimeconfig.cache
+C:\Users\F.Fidone\Desktop\C#\Conversione\obj\Debug\net7.0\ref\Conversione.dll

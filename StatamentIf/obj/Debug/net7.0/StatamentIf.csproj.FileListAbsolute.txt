@@ -1,0 +1,15 @@
+C:\Users\F.Fidone\Desktop\C#\StatamentIf\obj\Debug\net7.0\StatamentIf.csproj.AssemblyReference.cache
+C:\Users\F.Fidone\Desktop\C#\StatamentIf\obj\Debug\net7.0\StatamentIf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\F.Fidone\Desktop\C#\StatamentIf\obj\Debug\net7.0\StatamentIf.AssemblyInfoInputs.cache
+C:\Users\F.Fidone\Desktop\C#\StatamentIf\obj\Debug\net7.0\StatamentIf.AssemblyInfo.cs
+C:\Users\F.Fidone\Desktop\C#\StatamentIf\obj\Debug\net7.0\StatamentIf.csproj.CoreCompileInputs.cache
+C:\Users\F.Fidone\Desktop\C#\StatamentIf\bin\Debug\net7.0\StatamentIf.exe
+C:\Users\F.Fidone\Desktop\C#\StatamentIf\bin\Debug\net7.0\StatamentIf.deps.json
+C:\Users\F.Fidone\Desktop\C#\StatamentIf\bin\Debug\net7.0\StatamentIf.runtimeconfig.json
+C:\Users\F.Fidone\Desktop\C#\StatamentIf\bin\Debug\net7.0\StatamentIf.dll
+C:\Users\F.Fidone\Desktop\C#\StatamentIf\bin\Debug\net7.0\StatamentIf.pdb
+C:\Users\F.Fidone\Desktop\C#\StatamentIf\obj\Debug\net7.0\StatamentIf.dll
+C:\Users\F.Fidone\Desktop\C#\StatamentIf\obj\Debug\net7.0\refint\StatamentIf.dll
+C:\Users\F.Fidone\Desktop\C#\StatamentIf\obj\Debug\net7.0\StatamentIf.pdb
+C:\Users\F.Fidone\Desktop\C#\StatamentIf\obj\Debug\net7.0\StatamentIf.genruntimeconfig.cache
+C:\Users\F.Fidone\Desktop\C#\StatamentIf\obj\Debug\net7.0\ref\StatamentIf.dll

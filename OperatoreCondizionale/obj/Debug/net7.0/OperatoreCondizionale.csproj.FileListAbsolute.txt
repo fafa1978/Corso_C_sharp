@@ -1,0 +1,5 @@
+C:\Users\F.Fidone\Desktop\C#\OperatoreCondizionale\obj\Debug\net7.0\OperatoreCondizionale.csproj.AssemblyReference.cache
+C:\Users\F.Fidone\Desktop\C#\OperatoreCondizionale\obj\Debug\net7.0\OperatoreCondizionale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\F.Fidone\Desktop\C#\OperatoreCondizionale\obj\Debug\net7.0\OperatoreCondizionale.AssemblyInfoInputs.cache
+C:\Users\F.Fidone\Desktop\C#\OperatoreCondizionale\obj\Debug\net7.0\OperatoreCondizionale.AssemblyInfo.cs
+C:\Users\F.Fidone\Desktop\C#\OperatoreCondizionale\obj\Debug\net7.0\OperatoreCondizionale.csproj.CoreCompileInputs.cache

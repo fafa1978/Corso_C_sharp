@@ -1,0 +1,15 @@
+C:\Users\F.Fidone\Desktop\C#\inizio\obj\Debug\net6.0\inizio.csproj.AssemblyReference.cache
+C:\Users\F.Fidone\Desktop\C#\inizio\obj\Debug\net6.0\inizio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\F.Fidone\Desktop\C#\inizio\obj\Debug\net6.0\inizio.AssemblyInfoInputs.cache
+C:\Users\F.Fidone\Desktop\C#\inizio\obj\Debug\net6.0\inizio.AssemblyInfo.cs
+C:\Users\F.Fidone\Desktop\C#\inizio\obj\Debug\net6.0\inizio.csproj.CoreCompileInputs.cache
+C:\Users\F.Fidone\Desktop\C#\inizio\bin\Debug\net6.0\inizio.exe
+C:\Users\F.Fidone\Desktop\C#\inizio\bin\Debug\net6.0\inizio.deps.json
+C:\Users\F.Fidone\Desktop\C#\inizio\bin\Debug\net6.0\inizio.runtimeconfig.json
+C:\Users\F.Fidone\Desktop\C#\inizio\bin\Debug\net6.0\inizio.dll
+C:\Users\F.Fidone\Desktop\C#\inizio\bin\Debug\net6.0\inizio.pdb
+C:\Users\F.Fidone\Desktop\C#\inizio\obj\Debug\net6.0\inizio.dll
+C:\Users\F.Fidone\Desktop\C#\inizio\obj\Debug\net6.0\refint\inizio.dll
+C:\Users\F.Fidone\Desktop\C#\inizio\obj\Debug\net6.0\inizio.pdb
+C:\Users\F.Fidone\Desktop\C#\inizio\obj\Debug\net6.0\inizio.genruntimeconfig.cache
+C:\Users\F.Fidone\Desktop\C#\inizio\obj\Debug\net6.0\ref\inizio.dll

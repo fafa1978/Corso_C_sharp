@@ -1,0 +1,15 @@
+C:\Users\F.Fidone\Desktop\C#\STATICClass\obj\Debug\net7.0\STATICClass.csproj.AssemblyReference.cache
+C:\Users\F.Fidone\Desktop\C#\STATICClass\obj\Debug\net7.0\STATICClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\F.Fidone\Desktop\C#\STATICClass\obj\Debug\net7.0\STATICClass.AssemblyInfoInputs.cache
+C:\Users\F.Fidone\Desktop\C#\STATICClass\obj\Debug\net7.0\STATICClass.AssemblyInfo.cs
+C:\Users\F.Fidone\Desktop\C#\STATICClass\obj\Debug\net7.0\STATICClass.csproj.CoreCompileInputs.cache
+C:\Users\F.Fidone\Desktop\C#\STATICClass\bin\Debug\net7.0\STATICClass.exe
+C:\Users\F.Fidone\Desktop\C#\STATICClass\bin\Debug\net7.0\STATICClass.deps.json
+C:\Users\F.Fidone\Desktop\C#\STATICClass\bin\Debug\net7.0\STATICClass.runtimeconfig.json
+C:\Users\F.Fidone\Desktop\C#\STATICClass\bin\Debug\net7.0\STATICClass.dll
+C:\Users\F.Fidone\Desktop\C#\STATICClass\bin\Debug\net7.0\STATICClass.pdb
+C:\Users\F.Fidone\Desktop\C#\STATICClass\obj\Debug\net7.0\STATICClass.dll
+C:\Users\F.Fidone\Desktop\C#\STATICClass\obj\Debug\net7.0\refint\STATICClass.dll
+C:\Users\F.Fidone\Desktop\C#\STATICClass\obj\Debug\net7.0\STATICClass.pdb
+C:\Users\F.Fidone\Desktop\C#\STATICClass\obj\Debug\net7.0\STATICClass.genruntimeconfig.cache
+C:\Users\F.Fidone\Desktop\C#\STATICClass\obj\Debug\net7.0\ref\STATICClass.dll

@@ -1,0 +1,15 @@
+C:\Users\F.Fidone\Desktop\C#\attributi\bin\Debug\net7.0\attributi.exe
+C:\Users\F.Fidone\Desktop\C#\attributi\bin\Debug\net7.0\attributi.deps.json
+C:\Users\F.Fidone\Desktop\C#\attributi\bin\Debug\net7.0\attributi.runtimeconfig.json
+C:\Users\F.Fidone\Desktop\C#\attributi\bin\Debug\net7.0\attributi.dll
+C:\Users\F.Fidone\Desktop\C#\attributi\bin\Debug\net7.0\attributi.pdb
+C:\Users\F.Fidone\Desktop\C#\attributi\obj\Debug\net7.0\attributi.csproj.AssemblyReference.cache
+C:\Users\F.Fidone\Desktop\C#\attributi\obj\Debug\net7.0\attributi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\F.Fidone\Desktop\C#\attributi\obj\Debug\net7.0\attributi.AssemblyInfoInputs.cache
+C:\Users\F.Fidone\Desktop\C#\attributi\obj\Debug\net7.0\attributi.AssemblyInfo.cs
+C:\Users\F.Fidone\Desktop\C#\attributi\obj\Debug\net7.0\attributi.csproj.CoreCompileInputs.cache
+C:\Users\F.Fidone\Desktop\C#\attributi\obj\Debug\net7.0\attributi.dll
+C:\Users\F.Fidone\Desktop\C#\attributi\obj\Debug\net7.0\refint\attributi.dll
+C:\Users\F.Fidone\Desktop\C#\attributi\obj\Debug\net7.0\attributi.pdb
+C:\Users\F.Fidone\Desktop\C#\attributi\obj\Debug\net7.0\attributi.genruntimeconfig.cache
+C:\Users\F.Fidone\Desktop\C#\attributi\obj\Debug\net7.0\ref\attributi.dll

@@ -1,0 +1,15 @@
+C:\Users\F.Fidone\Desktop\C#\Casting\bin\Debug\net7.0\Casting.exe
+C:\Users\F.Fidone\Desktop\C#\Casting\bin\Debug\net7.0\Casting.deps.json
+C:\Users\F.Fidone\Desktop\C#\Casting\bin\Debug\net7.0\Casting.runtimeconfig.json
+C:\Users\F.Fidone\Desktop\C#\Casting\bin\Debug\net7.0\Casting.dll
+C:\Users\F.Fidone\Desktop\C#\Casting\bin\Debug\net7.0\Casting.pdb
+C:\Users\F.Fidone\Desktop\C#\Casting\obj\Debug\net7.0\Casting.csproj.AssemblyReference.cache
+C:\Users\F.Fidone\Desktop\C#\Casting\obj\Debug\net7.0\Casting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\F.Fidone\Desktop\C#\Casting\obj\Debug\net7.0\Casting.AssemblyInfoInputs.cache
+C:\Users\F.Fidone\Desktop\C#\Casting\obj\Debug\net7.0\Casting.AssemblyInfo.cs
+C:\Users\F.Fidone\Desktop\C#\Casting\obj\Debug\net7.0\Casting.csproj.CoreCompileInputs.cache
+C:\Users\F.Fidone\Desktop\C#\Casting\obj\Debug\net7.0\Casting.dll
+C:\Users\F.Fidone\Desktop\C#\Casting\obj\Debug\net7.0\refint\Casting.dll
+C:\Users\F.Fidone\Desktop\C#\Casting\obj\Debug\net7.0\Casting.pdb
+C:\Users\F.Fidone\Desktop\C#\Casting\obj\Debug\net7.0\Casting.genruntimeconfig.cache
+C:\Users\F.Fidone\Desktop\C#\Casting\obj\Debug\net7.0\ref\Casting.dll

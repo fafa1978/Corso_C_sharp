@@ -1,0 +1,5 @@
+C:\Users\F.Fidone\Desktop\C#\esercizio2\obj\Debug\net7.0\esercizio2.csproj.AssemblyReference.cache
+C:\Users\F.Fidone\Desktop\C#\esercizio2\obj\Debug\net7.0\esercizio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\F.Fidone\Desktop\C#\esercizio2\obj\Debug\net7.0\esercizio2.AssemblyInfoInputs.cache
+C:\Users\F.Fidone\Desktop\C#\esercizio2\obj\Debug\net7.0\esercizio2.AssemblyInfo.cs
+C:\Users\F.Fidone\Desktop\C#\esercizio2\obj\Debug\net7.0\esercizio2.csproj.CoreCompileInputs.cache

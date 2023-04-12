@@ -1,0 +1,15 @@
+C:\Users\F.Fidone\Desktop\C#\EsercitazioneClassi\obj\Debug\net7.0\EsercitazioneClassi.csproj.AssemblyReference.cache
+C:\Users\F.Fidone\Desktop\C#\EsercitazioneClassi\obj\Debug\net7.0\EsercitazioneClassi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\F.Fidone\Desktop\C#\EsercitazioneClassi\obj\Debug\net7.0\EsercitazioneClassi.AssemblyInfoInputs.cache
+C:\Users\F.Fidone\Desktop\C#\EsercitazioneClassi\obj\Debug\net7.0\EsercitazioneClassi.AssemblyInfo.cs
+C:\Users\F.Fidone\Desktop\C#\EsercitazioneClassi\obj\Debug\net7.0\EsercitazioneClassi.csproj.CoreCompileInputs.cache
+C:\Users\F.Fidone\Desktop\C#\EsercitazioneClassi\bin\Debug\net7.0\EsercitazioneClassi.exe
+C:\Users\F.Fidone\Desktop\C#\EsercitazioneClassi\bin\Debug\net7.0\EsercitazioneClassi.deps.json
+C:\Users\F.Fidone\Desktop\C#\EsercitazioneClassi\bin\Debug\net7.0\EsercitazioneClassi.runtimeconfig.json
+C:\Users\F.Fidone\Desktop\C#\EsercitazioneClassi\bin\Debug\net7.0\EsercitazioneClassi.dll
+C:\Users\F.Fidone\Desktop\C#\EsercitazioneClassi\bin\Debug\net7.0\EsercitazioneClassi.pdb
+C:\Users\F.Fidone\Desktop\C#\EsercitazioneClassi\obj\Debug\net7.0\EsercitazioneClassi.dll
+C:\Users\F.Fidone\Desktop\C#\EsercitazioneClassi\obj\Debug\net7.0\refint\EsercitazioneClassi.dll
+C:\Users\F.Fidone\Desktop\C#\EsercitazioneClassi\obj\Debug\net7.0\EsercitazioneClassi.pdb
+C:\Users\F.Fidone\Desktop\C#\EsercitazioneClassi\obj\Debug\net7.0\EsercitazioneClassi.genruntimeconfig.cache
+C:\Users\F.Fidone\Desktop\C#\EsercitazioneClassi\obj\Debug\net7.0\ref\EsercitazioneClassi.dll

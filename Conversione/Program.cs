@@ -1,0 +1,18 @@
+﻿using System.Xml;
+using System.Drawing;
+using System.Dynamic;
+using System;
+int x = 10;
+double y = x;
+Console.WriteLine(x);
+Console.WriteLine(y);
+float x1 = 12000f;
+int y1 = (int)x1;
+Console.WriteLine(x1);
+Console.WriteLine(y1);
+int y2 = (int)++x1;
+int x2= Convert.ToInt32("123456");
+Console.WriteLine(y2);
+Console.WriteLine(x2);
+string x4= Convert.ToString(x1);
+Console.WriteLine(x4);

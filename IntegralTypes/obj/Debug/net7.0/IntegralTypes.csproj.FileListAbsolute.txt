@@ -1,0 +1,15 @@
+C:\Users\F.Fidone\Desktop\C#\IntegralTypes\bin\Debug\net7.0\IntegralTypes.exe
+C:\Users\F.Fidone\Desktop\C#\IntegralTypes\bin\Debug\net7.0\IntegralTypes.deps.json
+C:\Users\F.Fidone\Desktop\C#\IntegralTypes\bin\Debug\net7.0\IntegralTypes.runtimeconfig.json
+C:\Users\F.Fidone\Desktop\C#\IntegralTypes\bin\Debug\net7.0\IntegralTypes.dll
+C:\Users\F.Fidone\Desktop\C#\IntegralTypes\bin\Debug\net7.0\IntegralTypes.pdb
+C:\Users\F.Fidone\Desktop\C#\IntegralTypes\obj\Debug\net7.0\IntegralTypes.csproj.AssemblyReference.cache
+C:\Users\F.Fidone\Desktop\C#\IntegralTypes\obj\Debug\net7.0\IntegralTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\F.Fidone\Desktop\C#\IntegralTypes\obj\Debug\net7.0\IntegralTypes.AssemblyInfoInputs.cache
+C:\Users\F.Fidone\Desktop\C#\IntegralTypes\obj\Debug\net7.0\IntegralTypes.AssemblyInfo.cs
+C:\Users\F.Fidone\Desktop\C#\IntegralTypes\obj\Debug\net7.0\IntegralTypes.csproj.CoreCompileInputs.cache
+C:\Users\F.Fidone\Desktop\C#\IntegralTypes\obj\Debug\net7.0\IntegralTypes.dll
+C:\Users\F.Fidone\Desktop\C#\IntegralTypes\obj\Debug\net7.0\refint\IntegralTypes.dll
+C:\Users\F.Fidone\Desktop\C#\IntegralTypes\obj\Debug\net7.0\IntegralTypes.pdb
+C:\Users\F.Fidone\Desktop\C#\IntegralTypes\obj\Debug\net7.0\IntegralTypes.genruntimeconfig.cache
+C:\Users\F.Fidone\Desktop\C#\IntegralTypes\obj\Debug\net7.0\ref\IntegralTypes.dll

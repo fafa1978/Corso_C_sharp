@@ -1,0 +1,5 @@
+C:\Users\F.Fidone\Desktop\C#\operatorilogici\obj\Debug\net7.0\operatorilogici.csproj.AssemblyReference.cache
+C:\Users\F.Fidone\Desktop\C#\operatorilogici\obj\Debug\net7.0\operatorilogici.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\F.Fidone\Desktop\C#\operatorilogici\obj\Debug\net7.0\operatorilogici.AssemblyInfoInputs.cache
+C:\Users\F.Fidone\Desktop\C#\operatorilogici\obj\Debug\net7.0\operatorilogici.AssemblyInfo.cs
+C:\Users\F.Fidone\Desktop\C#\operatorilogici\obj\Debug\net7.0\operatorilogici.csproj.CoreCompileInputs.cache

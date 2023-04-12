@@ -1,0 +1,15 @@
+C:\Users\F.Fidone\Desktop\C#\Operazioni\obj\Debug\net7.0\Operazioni.csproj.AssemblyReference.cache
+C:\Users\F.Fidone\Desktop\C#\Operazioni\obj\Debug\net7.0\Operazioni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\F.Fidone\Desktop\C#\Operazioni\obj\Debug\net7.0\Operazioni.AssemblyInfoInputs.cache
+C:\Users\F.Fidone\Desktop\C#\Operazioni\obj\Debug\net7.0\Operazioni.AssemblyInfo.cs
+C:\Users\F.Fidone\Desktop\C#\Operazioni\obj\Debug\net7.0\Operazioni.csproj.CoreCompileInputs.cache
+C:\Users\F.Fidone\Desktop\C#\Operazioni\bin\Debug\net7.0\Operazioni.exe
+C:\Users\F.Fidone\Desktop\C#\Operazioni\bin\Debug\net7.0\Operazioni.deps.json
+C:\Users\F.Fidone\Desktop\C#\Operazioni\bin\Debug\net7.0\Operazioni.runtimeconfig.json
+C:\Users\F.Fidone\Desktop\C#\Operazioni\bin\Debug\net7.0\Operazioni.dll
+C:\Users\F.Fidone\Desktop\C#\Operazioni\bin\Debug\net7.0\Operazioni.pdb
+C:\Users\F.Fidone\Desktop\C#\Operazioni\obj\Debug\net7.0\Operazioni.dll
+C:\Users\F.Fidone\Desktop\C#\Operazioni\obj\Debug\net7.0\refint\Operazioni.dll
+C:\Users\F.Fidone\Desktop\C#\Operazioni\obj\Debug\net7.0\Operazioni.pdb
+C:\Users\F.Fidone\Desktop\C#\Operazioni\obj\Debug\net7.0\Operazioni.genruntimeconfig.cache
+C:\Users\F.Fidone\Desktop\C#\Operazioni\obj\Debug\net7.0\ref\Operazioni.dll

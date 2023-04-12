@@ -1,0 +1,15 @@
+C:\Users\F.Fidone\Desktop\C#\Scope_Name_Hiding\bin\Debug\net7.0\Scope_Name_Hiding.exe
+C:\Users\F.Fidone\Desktop\C#\Scope_Name_Hiding\bin\Debug\net7.0\Scope_Name_Hiding.deps.json
+C:\Users\F.Fidone\Desktop\C#\Scope_Name_Hiding\bin\Debug\net7.0\Scope_Name_Hiding.runtimeconfig.json
+C:\Users\F.Fidone\Desktop\C#\Scope_Name_Hiding\bin\Debug\net7.0\Scope_Name_Hiding.dll
+C:\Users\F.Fidone\Desktop\C#\Scope_Name_Hiding\bin\Debug\net7.0\Scope_Name_Hiding.pdb
+C:\Users\F.Fidone\Desktop\C#\Scope_Name_Hiding\obj\Debug\net7.0\Scope_Name_Hiding.csproj.AssemblyReference.cache
+C:\Users\F.Fidone\Desktop\C#\Scope_Name_Hiding\obj\Debug\net7.0\Scope_Name_Hiding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\F.Fidone\Desktop\C#\Scope_Name_Hiding\obj\Debug\net7.0\Scope_Name_Hiding.AssemblyInfoInputs.cache
+C:\Users\F.Fidone\Desktop\C#\Scope_Name_Hiding\obj\Debug\net7.0\Scope_Name_Hiding.AssemblyInfo.cs
+C:\Users\F.Fidone\Desktop\C#\Scope_Name_Hiding\obj\Debug\net7.0\Scope_Name_Hiding.csproj.CoreCompileInputs.cache
+C:\Users\F.Fidone\Desktop\C#\Scope_Name_Hiding\obj\Debug\net7.0\Scope_Name_Hiding.dll
+C:\Users\F.Fidone\Desktop\C#\Scope_Name_Hiding\obj\Debug\net7.0\refint\Scope_Name_Hiding.dll
+C:\Users\F.Fidone\Desktop\C#\Scope_Name_Hiding\obj\Debug\net7.0\Scope_Name_Hiding.pdb
+C:\Users\F.Fidone\Desktop\C#\Scope_Name_Hiding\obj\Debug\net7.0\Scope_Name_Hiding.genruntimeconfig.cache
+C:\Users\F.Fidone\Desktop\C#\Scope_Name_Hiding\obj\Debug\net7.0\ref\Scope_Name_Hiding.dll

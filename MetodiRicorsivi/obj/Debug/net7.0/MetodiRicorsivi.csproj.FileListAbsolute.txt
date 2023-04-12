@@ -1,0 +1,15 @@
+C:\Users\F.Fidone\Desktop\C#\MetodiRicorsivi\obj\Debug\net7.0\MetodiRicorsivi.csproj.AssemblyReference.cache
+C:\Users\F.Fidone\Desktop\C#\MetodiRicorsivi\obj\Debug\net7.0\MetodiRicorsivi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\F.Fidone\Desktop\C#\MetodiRicorsivi\obj\Debug\net7.0\MetodiRicorsivi.AssemblyInfoInputs.cache
+C:\Users\F.Fidone\Desktop\C#\MetodiRicorsivi\obj\Debug\net7.0\MetodiRicorsivi.AssemblyInfo.cs
+C:\Users\F.Fidone\Desktop\C#\MetodiRicorsivi\obj\Debug\net7.0\MetodiRicorsivi.csproj.CoreCompileInputs.cache
+C:\Users\F.Fidone\Desktop\C#\MetodiRicorsivi\bin\Debug\net7.0\MetodiRicorsivi.exe
+C:\Users\F.Fidone\Desktop\C#\MetodiRicorsivi\bin\Debug\net7.0\MetodiRicorsivi.deps.json
+C:\Users\F.Fidone\Desktop\C#\MetodiRicorsivi\bin\Debug\net7.0\MetodiRicorsivi.runtimeconfig.json
+C:\Users\F.Fidone\Desktop\C#\MetodiRicorsivi\bin\Debug\net7.0\MetodiRicorsivi.dll
+C:\Users\F.Fidone\Desktop\C#\MetodiRicorsivi\bin\Debug\net7.0\MetodiRicorsivi.pdb
+C:\Users\F.Fidone\Desktop\C#\MetodiRicorsivi\obj\Debug\net7.0\MetodiRicorsivi.dll
+C:\Users\F.Fidone\Desktop\C#\MetodiRicorsivi\obj\Debug\net7.0\refint\MetodiRicorsivi.dll
+C:\Users\F.Fidone\Desktop\C#\MetodiRicorsivi\obj\Debug\net7.0\MetodiRicorsivi.pdb
+C:\Users\F.Fidone\Desktop\C#\MetodiRicorsivi\obj\Debug\net7.0\MetodiRicorsivi.genruntimeconfig.cache
+C:\Users\F.Fidone\Desktop\C#\MetodiRicorsivi\obj\Debug\net7.0\ref\MetodiRicorsivi.dll

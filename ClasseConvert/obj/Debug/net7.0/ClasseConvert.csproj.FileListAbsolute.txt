@@ -1,0 +1,15 @@
+C:\Users\F.Fidone\Desktop\C#\ClasseConvert\bin\Debug\net7.0\ClasseConvert.exe
+C:\Users\F.Fidone\Desktop\C#\ClasseConvert\bin\Debug\net7.0\ClasseConvert.deps.json
+C:\Users\F.Fidone\Desktop\C#\ClasseConvert\bin\Debug\net7.0\ClasseConvert.runtimeconfig.json
+C:\Users\F.Fidone\Desktop\C#\ClasseConvert\bin\Debug\net7.0\ClasseConvert.dll
+C:\Users\F.Fidone\Desktop\C#\ClasseConvert\bin\Debug\net7.0\ClasseConvert.pdb
+C:\Users\F.Fidone\Desktop\C#\ClasseConvert\obj\Debug\net7.0\ClasseConvert.csproj.AssemblyReference.cache
+C:\Users\F.Fidone\Desktop\C#\ClasseConvert\obj\Debug\net7.0\ClasseConvert.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\F.Fidone\Desktop\C#\ClasseConvert\obj\Debug\net7.0\ClasseConvert.AssemblyInfoInputs.cache
+C:\Users\F.Fidone\Desktop\C#\ClasseConvert\obj\Debug\net7.0\ClasseConvert.AssemblyInfo.cs
+C:\Users\F.Fidone\Desktop\C#\ClasseConvert\obj\Debug\net7.0\ClasseConvert.csproj.CoreCompileInputs.cache
+C:\Users\F.Fidone\Desktop\C#\ClasseConvert\obj\Debug\net7.0\ClasseConvert.dll
+C:\Users\F.Fidone\Desktop\C#\ClasseConvert\obj\Debug\net7.0\refint\ClasseConvert.dll
+C:\Users\F.Fidone\Desktop\C#\ClasseConvert\obj\Debug\net7.0\ClasseConvert.pdb
+C:\Users\F.Fidone\Desktop\C#\ClasseConvert\obj\Debug\net7.0\ClasseConvert.genruntimeconfig.cache
+C:\Users\F.Fidone\Desktop\C#\ClasseConvert\obj\Debug\net7.0\ref\ClasseConvert.dll

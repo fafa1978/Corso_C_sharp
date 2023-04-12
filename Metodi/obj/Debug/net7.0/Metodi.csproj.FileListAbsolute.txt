@@ -1,0 +1,15 @@
+C:\Users\F.Fidone\Desktop\C#\Metodi\bin\Debug\net7.0\Metodi.exe
+C:\Users\F.Fidone\Desktop\C#\Metodi\bin\Debug\net7.0\Metodi.deps.json
+C:\Users\F.Fidone\Desktop\C#\Metodi\bin\Debug\net7.0\Metodi.runtimeconfig.json
+C:\Users\F.Fidone\Desktop\C#\Metodi\bin\Debug\net7.0\Metodi.dll
+C:\Users\F.Fidone\Desktop\C#\Metodi\bin\Debug\net7.0\Metodi.pdb
+C:\Users\F.Fidone\Desktop\C#\Metodi\obj\Debug\net7.0\Metodi.csproj.AssemblyReference.cache
+C:\Users\F.Fidone\Desktop\C#\Metodi\obj\Debug\net7.0\Metodi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\F.Fidone\Desktop\C#\Metodi\obj\Debug\net7.0\Metodi.AssemblyInfoInputs.cache
+C:\Users\F.Fidone\Desktop\C#\Metodi\obj\Debug\net7.0\Metodi.AssemblyInfo.cs
+C:\Users\F.Fidone\Desktop\C#\Metodi\obj\Debug\net7.0\Metodi.csproj.CoreCompileInputs.cache
+C:\Users\F.Fidone\Desktop\C#\Metodi\obj\Debug\net7.0\Metodi.dll
+C:\Users\F.Fidone\Desktop\C#\Metodi\obj\Debug\net7.0\refint\Metodi.dll
+C:\Users\F.Fidone\Desktop\C#\Metodi\obj\Debug\net7.0\Metodi.pdb
+C:\Users\F.Fidone\Desktop\C#\Metodi\obj\Debug\net7.0\Metodi.genruntimeconfig.cache
+C:\Users\F.Fidone\Desktop\C#\Metodi\obj\Debug\net7.0\ref\Metodi.dll

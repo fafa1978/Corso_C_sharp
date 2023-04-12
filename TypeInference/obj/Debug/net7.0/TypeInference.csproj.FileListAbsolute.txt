@@ -1,0 +1,15 @@
+C:\Users\F.Fidone\Desktop\C#\TypeInference\obj\Debug\net7.0\TypeInference.csproj.AssemblyReference.cache
+C:\Users\F.Fidone\Desktop\C#\TypeInference\obj\Debug\net7.0\TypeInference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\F.Fidone\Desktop\C#\TypeInference\obj\Debug\net7.0\TypeInference.AssemblyInfoInputs.cache
+C:\Users\F.Fidone\Desktop\C#\TypeInference\obj\Debug\net7.0\TypeInference.AssemblyInfo.cs
+C:\Users\F.Fidone\Desktop\C#\TypeInference\obj\Debug\net7.0\TypeInference.csproj.CoreCompileInputs.cache
+C:\Users\F.Fidone\Desktop\C#\TypeInference\bin\Debug\net7.0\TypeInference.exe
+C:\Users\F.Fidone\Desktop\C#\TypeInference\bin\Debug\net7.0\TypeInference.deps.json
+C:\Users\F.Fidone\Desktop\C#\TypeInference\bin\Debug\net7.0\TypeInference.runtimeconfig.json
+C:\Users\F.Fidone\Desktop\C#\TypeInference\bin\Debug\net7.0\TypeInference.dll
+C:\Users\F.Fidone\Desktop\C#\TypeInference\bin\Debug\net7.0\TypeInference.pdb
+C:\Users\F.Fidone\Desktop\C#\TypeInference\obj\Debug\net7.0\TypeInference.dll
+C:\Users\F.Fidone\Desktop\C#\TypeInference\obj\Debug\net7.0\refint\TypeInference.dll
+C:\Users\F.Fidone\Desktop\C#\TypeInference\obj\Debug\net7.0\TypeInference.pdb
+C:\Users\F.Fidone\Desktop\C#\TypeInference\obj\Debug\net7.0\TypeInference.genruntimeconfig.cache
+C:\Users\F.Fidone\Desktop\C#\TypeInference\obj\Debug\net7.0\ref\TypeInference.dll

@@ -1,0 +1,15 @@
+C:\Users\F.Fidone\Desktop\C#\StatementCase\bin\Debug\net7.0\StatementCase.exe
+C:\Users\F.Fidone\Desktop\C#\StatementCase\bin\Debug\net7.0\StatementCase.deps.json
+C:\Users\F.Fidone\Desktop\C#\StatementCase\bin\Debug\net7.0\StatementCase.runtimeconfig.json
+C:\Users\F.Fidone\Desktop\C#\StatementCase\bin\Debug\net7.0\StatementCase.dll
+C:\Users\F.Fidone\Desktop\C#\StatementCase\bin\Debug\net7.0\StatementCase.pdb
+C:\Users\F.Fidone\Desktop\C#\StatementCase\obj\Debug\net7.0\StatementCase.csproj.AssemblyReference.cache
+C:\Users\F.Fidone\Desktop\C#\StatementCase\obj\Debug\net7.0\StatementCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\F.Fidone\Desktop\C#\StatementCase\obj\Debug\net7.0\StatementCase.AssemblyInfoInputs.cache
+C:\Users\F.Fidone\Desktop\C#\StatementCase\obj\Debug\net7.0\StatementCase.AssemblyInfo.cs
+C:\Users\F.Fidone\Desktop\C#\StatementCase\obj\Debug\net7.0\StatementCase.csproj.CoreCompileInputs.cache
+C:\Users\F.Fidone\Desktop\C#\StatementCase\obj\Debug\net7.0\StatementCase.dll
+C:\Users\F.Fidone\Desktop\C#\StatementCase\obj\Debug\net7.0\refint\StatementCase.dll
+C:\Users\F.Fidone\Desktop\C#\StatementCase\obj\Debug\net7.0\StatementCase.pdb
+C:\Users\F.Fidone\Desktop\C#\StatementCase\obj\Debug\net7.0\StatementCase.genruntimeconfig.cache
+C:\Users\F.Fidone\Desktop\C#\StatementCase\obj\Debug\net7.0\ref\StatementCase.dll

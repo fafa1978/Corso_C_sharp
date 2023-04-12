@@ -1,0 +1,15 @@
+C:\Users\F.Fidone\Desktop\C#\EsercizioWhile\obj\Debug\net7.0\EsercizioWhile.csproj.AssemblyReference.cache
+C:\Users\F.Fidone\Desktop\C#\EsercizioWhile\obj\Debug\net7.0\EsercizioWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\F.Fidone\Desktop\C#\EsercizioWhile\obj\Debug\net7.0\EsercizioWhile.AssemblyInfoInputs.cache
+C:\Users\F.Fidone\Desktop\C#\EsercizioWhile\obj\Debug\net7.0\EsercizioWhile.AssemblyInfo.cs
+C:\Users\F.Fidone\Desktop\C#\EsercizioWhile\obj\Debug\net7.0\EsercizioWhile.csproj.CoreCompileInputs.cache
+C:\Users\F.Fidone\Desktop\C#\EsercizioWhile\bin\Debug\net7.0\EsercizioWhile.exe
+C:\Users\F.Fidone\Desktop\C#\EsercizioWhile\bin\Debug\net7.0\EsercizioWhile.deps.json
+C:\Users\F.Fidone\Desktop\C#\EsercizioWhile\bin\Debug\net7.0\EsercizioWhile.runtimeconfig.json
+C:\Users\F.Fidone\Desktop\C#\EsercizioWhile\bin\Debug\net7.0\EsercizioWhile.dll
+C:\Users\F.Fidone\Desktop\C#\EsercizioWhile\bin\Debug\net7.0\EsercizioWhile.pdb
+C:\Users\F.Fidone\Desktop\C#\EsercizioWhile\obj\Debug\net7.0\EsercizioWhile.dll
+C:\Users\F.Fidone\Desktop\C#\EsercizioWhile\obj\Debug\net7.0\refint\EsercizioWhile.dll
+C:\Users\F.Fidone\Desktop\C#\EsercizioWhile\obj\Debug\net7.0\EsercizioWhile.pdb
+C:\Users\F.Fidone\Desktop\C#\EsercizioWhile\obj\Debug\net7.0\EsercizioWhile.genruntimeconfig.cache
+C:\Users\F.Fidone\Desktop\C#\EsercizioWhile\obj\Debug\net7.0\ref\EsercizioWhile.dll

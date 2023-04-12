@@ -1,0 +1,15 @@
+C:\Users\F.Fidone\Desktop\C#\Class\obj\Debug\net7.0\Class.csproj.AssemblyReference.cache
+C:\Users\F.Fidone\Desktop\C#\Class\obj\Debug\net7.0\Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\F.Fidone\Desktop\C#\Class\obj\Debug\net7.0\Class.AssemblyInfoInputs.cache
+C:\Users\F.Fidone\Desktop\C#\Class\obj\Debug\net7.0\Class.AssemblyInfo.cs
+C:\Users\F.Fidone\Desktop\C#\Class\obj\Debug\net7.0\Class.csproj.CoreCompileInputs.cache
+C:\Users\F.Fidone\Desktop\C#\Class\bin\Debug\net7.0\Class.exe
+C:\Users\F.Fidone\Desktop\C#\Class\bin\Debug\net7.0\Class.deps.json
+C:\Users\F.Fidone\Desktop\C#\Class\bin\Debug\net7.0\Class.runtimeconfig.json
+C:\Users\F.Fidone\Desktop\C#\Class\bin\Debug\net7.0\Class.dll
+C:\Users\F.Fidone\Desktop\C#\Class\bin\Debug\net7.0\Class.pdb
+C:\Users\F.Fidone\Desktop\C#\Class\obj\Debug\net7.0\Class.dll
+C:\Users\F.Fidone\Desktop\C#\Class\obj\Debug\net7.0\refint\Class.dll
+C:\Users\F.Fidone\Desktop\C#\Class\obj\Debug\net7.0\Class.pdb
+C:\Users\F.Fidone\Desktop\C#\Class\obj\Debug\net7.0\Class.genruntimeconfig.cache
+C:\Users\F.Fidone\Desktop\C#\Class\obj\Debug\net7.0\ref\Class.dll

@@ -1,0 +1,15 @@
+C:\Users\F.Fidone\Desktop\C#\Istanze\bin\Debug\net7.0\Istanze.exe
+C:\Users\F.Fidone\Desktop\C#\Istanze\bin\Debug\net7.0\Istanze.deps.json
+C:\Users\F.Fidone\Desktop\C#\Istanze\bin\Debug\net7.0\Istanze.runtimeconfig.json
+C:\Users\F.Fidone\Desktop\C#\Istanze\bin\Debug\net7.0\Istanze.dll
+C:\Users\F.Fidone\Desktop\C#\Istanze\bin\Debug\net7.0\Istanze.pdb
+C:\Users\F.Fidone\Desktop\C#\Istanze\obj\Debug\net7.0\Istanze.csproj.AssemblyReference.cache
+C:\Users\F.Fidone\Desktop\C#\Istanze\obj\Debug\net7.0\Istanze.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\F.Fidone\Desktop\C#\Istanze\obj\Debug\net7.0\Istanze.AssemblyInfoInputs.cache
+C:\Users\F.Fidone\Desktop\C#\Istanze\obj\Debug\net7.0\Istanze.AssemblyInfo.cs
+C:\Users\F.Fidone\Desktop\C#\Istanze\obj\Debug\net7.0\Istanze.csproj.CoreCompileInputs.cache
+C:\Users\F.Fidone\Desktop\C#\Istanze\obj\Debug\net7.0\Istanze.dll
+C:\Users\F.Fidone\Desktop\C#\Istanze\obj\Debug\net7.0\refint\Istanze.dll
+C:\Users\F.Fidone\Desktop\C#\Istanze\obj\Debug\net7.0\Istanze.pdb
+C:\Users\F.Fidone\Desktop\C#\Istanze\obj\Debug\net7.0\Istanze.genruntimeconfig.cache
+C:\Users\F.Fidone\Desktop\C#\Istanze\obj\Debug\net7.0\ref\Istanze.dll
